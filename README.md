@@ -50,17 +50,6 @@ pip install -r requirements.txt
 Run the Dashboard:
 streamlit run app.py
 
-Requirements.txt
-Create a file named requirements.txt in your root folder and add the following:
-streamlit
-pandas
-numpy
-scikit-learn
-plotly
-matplotlib
-seaborn
-xgboost
-
 
 
 
