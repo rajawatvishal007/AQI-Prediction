@@ -33,12 +33,13 @@ City-wise Distribution
 Model Accuracy
 <img width="991" height="391" alt="image" src="https://github.com/user-attachments/assets/f82ac04b-ffb7-44f0-8af2-dce223bed057" />
 
-├── data/               # CSV datasets for 10 Indian cities
-├── notebooks/          # Jupyter notebooks for EDA and Model Training
-├── app.py              # Streamlit dashboard source code
-├── model.pkl           # Pre-trained Random Forest model
-├── requirements.txt    # List of dependencies
-└── README.md           # Project documentation
+data/               # CSV datasets for 10 Indian cities
+notebooks/          # Jupyter notebooks for EDA and Model Training
+app.py              # Streamlit dashboard source code
+model.pkl           # Pre-trained Random Forest model
+requirements.txt    # List of dependencies
+README.md           # Project documentation
+
 Installation & Usage
 Clone the Repo:
 git clone https://github.com/your-username/AQI-prediction.git
